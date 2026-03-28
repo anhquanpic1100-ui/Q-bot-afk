@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "Bot",
+    "username": "AiHoiafkBot",
     "password": "your_password",
     "type": "offline"
   },
 
   "server": {
-    "ip": "localhost:25565",
-    "version": "1.8.9"
+    "ip": "8a3smptest.aternos.me",
+    "version": "1.21.11"
   },
 
   "position": {
