@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "AiHoiafkBot",
+    "username": "kidafkbot",
     "password": "28122012",
     "type": "offline"
   },
 
   "server": {
-    "ip": "8a3smptest.aternos.me",
+    "ip": "8a3smptest.aternos.me:64753",
     "version": "1.21.11"
   },
 
